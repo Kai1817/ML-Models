@@ -7,6 +7,7 @@ Various ML models used for different purpose.Go through the procedures of the va
 - **6) Binary Classification of Bank existed probability**
 - **7) End to End Chatbot**
 - **8) Text emotion Classification**
+- **9) Next word Prediction**
 
   
 If you need the CSV file to work upon contact me through mail because the Csv file is too big to upload here.
