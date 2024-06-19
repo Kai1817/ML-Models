@@ -3,7 +3,7 @@ import google.generativeai as genai
 
 # Initialize Gemini-Pro 
 try:
-    genai.configure(api_key="")
+    genai.configure(api_key="Enter your own api")
     model = genai.GenerativeModel('gemini-pro')
 except Exception as e:
     st.error(f"An error occurred while initializing the Gemini API: {e}")
