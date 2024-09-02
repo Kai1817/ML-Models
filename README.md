@@ -9,6 +9,7 @@ Various ML models used for different purpose.Go through the procedures of the va
 - **8) Text emotion Classification**
 - **9) Next word Prediction**
 - **10) Dynamic Chatbot** (Run the programme in the command line using the command streamlit run file_name.py)
+- **9) Spam Comment Detection**
 
   
 If you need the CSV file to work upon contact me through mail because the Csv file is too big to upload here.
