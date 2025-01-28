@@ -12,6 +12,7 @@ Various ML models used for different purpose.Go through the procedures of the va
 - **11) Spam Comment Detection**
 - **12) Time Series Business Sales Forecasting**
 - **13) Statistical Modelling**
+- **14) Streamlit Chatbot**
 
   
 If you need the CSV file to work upon contact me through mail because the Csv file is too big to upload here.
