@@ -13,6 +13,7 @@ Various ML models used for different purpose.Go through the procedures of the va
 - **12) Time Series Business Sales Forecasting**
 - **13) Statistical Modelling**
 - **14) Streamlit Chatbot**
+- **15) Synthetic Data Generation using GenAI**
 
   
 If you need the CSV file to work upon contact me through mail because the Csv file is too big to upload here.
